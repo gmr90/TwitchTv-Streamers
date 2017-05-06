@@ -1,0 +1,30 @@
+body{
+
+	background-image: url('http://pregnancymiracles.net/wp-content/uploads/2012/06/background-kuning.jpg');
+	
+}
+#header{
+	background:rgb(0,0,0);
+	color:white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: groove white;
+	border-radius: 10px;
+}
+img{
+	width: 100px;
+	border-radius: 10px;
+}
+.col-md-4{
+	padding: 7px;
+}
+.row{
+	background:rgb(128,128,128);
+	border: groove white;
+	color:white;
+	margin: 2px;
+	border-radius: 10px;
+}
+.container{
+	max-width: 80%;
+}
